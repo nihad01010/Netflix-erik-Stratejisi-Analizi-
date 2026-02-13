@@ -31,11 +31,11 @@ Yaptığım analizler sonucunda şu stratejik sonuçlara ulaştım:
 
 ### 1. İçerik Türü Dağılımı ve Yıllara Göre Büyüme
 
-![Graph1](C:\Users\Sum28-04\Desktop\python\netflix_year_month.png)
+![Graph1](netflix_year_month.png)
 
 ### 2. Ülke Bazlı İçerik Dağılımı
 
-![Graph2](C:\Users\Sum28-04\Desktop\python\netflix_duration_distribution.png)
+![Graph2](netflix_duration_distribution.png)
 
 
 
